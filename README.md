@@ -42,7 +42,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=IT+Support;Laravel+Developer;Future+Network+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=IT+Support;Web+Developer;Software+Engineer)
 
 
 <!--
