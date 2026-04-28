@@ -36,6 +36,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonza26&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonza26&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonza26&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=leonza26&color=blue)
 
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
