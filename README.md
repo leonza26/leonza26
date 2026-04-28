@@ -31,7 +31,7 @@
 ## 📫 Contact Me
 
 * Email: [muhammadleonza10@gmail.com](mailto:your-email@gmail.com)
-* LinkedIn: M.Leonza Norisevick\
+* LinkedIn: M.Leonza Norisevick
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonza26&show_icons=true&theme=tokyonight&hide_border=true)
@@ -40,8 +40,8 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=leonza26&color=blue)
 
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
