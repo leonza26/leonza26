@@ -34,7 +34,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonza26&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonza26&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=leonza26&theme=tokyonight&hide_border=true)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 
 <!--
