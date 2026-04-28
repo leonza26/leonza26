@@ -36,7 +36,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonza26&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonza26&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=leonza26&theme=tokyonight&hide_border=true)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=leonza26&color=blue)
 
