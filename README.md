@@ -26,13 +26,6 @@
 * 🐧 Linux
 * 🌐 Networking (basic - intermediate)
 
----
-
-## 📫 Contact Me
-
-* Email: [muhammadleonza10@gmail.com](mailto:your-email@gmail.com)
-* LinkedIn: M.Leonza Norisevick
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonza26&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonza26&layout=compact&theme=tokyonight&hide_border=true)
@@ -48,6 +41,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=IT+Support;Web+Developer;Software+Engineer)
 
+---
+
+## 📫 Contact Me
+
+* Email: [muhammadleonza10@gmail.com](mailto:your-email@gmail.com)
+* LinkedIn: M.Leonza Norisevick
 
 <!--
 **leonza26/leonza26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
