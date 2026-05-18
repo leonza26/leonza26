@@ -2,7 +2,6 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=IT+Support;Web+Developer;Software+Engineer) 
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=leonza26&color=blue)
 ---
 
@@ -23,17 +22,16 @@
 * 🐧 Linux
 * 🌐 Networking (basic - intermediate)
 
+![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonza26&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonza26&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonza26&theme=tokyo-night)
-
-
-![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
 
