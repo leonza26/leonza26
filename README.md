@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Leonza
 
 
-💻 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=IT+Support;Web+Developer;Software+Engineer)
+💻 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=IT+Support;Web+Developer;Software+Engineer)
 
 ---
 
