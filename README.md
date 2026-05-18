@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Leonza
 
 
-💻 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=IT+Support;Web+Developer;Software+Engineer)
+💻![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=IT+Support;Web+Developer;Software+Engineer)
 
+
+![Visitor Count](https://komarev.com/ghpvc/?username=leonza26&color=blue)
 ---
 
 ## 🚀 About Me
@@ -29,7 +30,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonza26&theme=tokyo-night)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=leonza26&color=blue)
 
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
