@@ -2,6 +2,7 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=IT+Support;Web+Developer;Software+Engineer) 
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=leonza26&color=blue)
 ---
 
