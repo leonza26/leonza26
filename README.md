@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 * 💻 PHP, JavaScript, Laravel, Yii2, Codeigniter
-* 🎨 Tailwind CSS, Bootstrap
+* 🎨 Tailwind CSS, Bootstrap, React JS
 * 📰 Livewire, Alpine JS
 * 🗄️ MySQL, PgSQL
 * 🐧 Linux
