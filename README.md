@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-* 💻 PHP, JavaScript, Laravel, Yii2, Codeigniter
+* 💻 PHP, JavaScript, Laravel, Yii2, Codeigniter, Next JS
 * 🎨 Tailwind CSS, Bootstrap, React JS
 * 📰 Livewire, Alpine JS
 * 🗄️ MySQL, PgSQL
