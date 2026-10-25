@@ -16,12 +16,11 @@
 
 ## 🛠️ Tech Stack
 
-* 💻 PHP, JavaScript, Laravel, Yii2, Codeigniter, Next JS
+* 💻 PHP, JavaScript, Golang, Laravel, Yii2, Codeigniter, Next JS, Gin.
 * 🎨 Tailwind CSS, Bootstrap. 
 * 📰 Livewire, Alpine JS, React, blade (xhp)
 * 🗄️ MySQL, PgSQL
-* 🐧 Linux
-* 🌐 Networking (basic - intermediate)
+* 🐧 Linux Server, VPS, Shared Hosting.
 
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
